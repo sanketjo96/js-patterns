@@ -20,7 +20,6 @@
     - Mediator
     - Command
     - Proxy
-
     - State
     - Chain of responsibility
     - Iterator
