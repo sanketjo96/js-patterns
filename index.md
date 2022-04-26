@@ -20,7 +20,12 @@
     - Mediator
     - Command
     - Proxy
+
     - State
     - Chain of responsibility
     - Iterator
     - Memento
+
+
+Resources 
+    - https://www.patterns.dev/posts/classic-design-patterns/
